@@ -1,5 +1,6 @@
 # NA-404-App
 Introduction:
+
 We are living in a very politically charged environment these days and in this environment, people can easily express their thoughts and opinions on the internet freely without any fear. People say things on the internet which they don’t usually say in person and that can be because of multiple reasons.
 The sentiments of the people should predict what should happen in the future because all politicians try to appease the people at least till before elections. 
 Our program takes these opinions from Twitter, learns the general opinion and can then try to find out how many people support which political party. This can be very helpful to the media people of these respective parties when they want to find out about what people are saying about the party. 
